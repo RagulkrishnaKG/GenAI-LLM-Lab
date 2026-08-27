@@ -1,0 +1,14 @@
+transformers
+torch
+datasets
+scikit-learn
+sentence-transformers
+faiss-cpu
+diffusers
+accelerate
+Pillow
+requests
+gTTS
+gradio
+evaluate
+rouge_score
